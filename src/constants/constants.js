@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/esurance.png',
       tags: ['HTML', 'CSS', 'JavaScript', 'Front-End'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/JayvenC/eSurance',
     id: 0,
   },
   {
@@ -14,16 +14,16 @@ export const projects = [
     image: '/images/weather.png',
     tags: ['Python', 'API'],
     source: 'https://google.com',
-    visit: 'https://github.com/JayvenC', //"CODE"
+    visit: 'https://github.com/JayvenC/ClimateFinder', //"CODE"
     id: 1,
   },
   {
     title: 'In Progress!',
-    description: "I am currently working on a full-stack project that should be posted here soon!",
+    description: "I am currently working on a full-stack project that should be posted here soon! In the meantime, click the button below to view my github repository.",
       image: '/images/work.jpg',
       tags: ['', ''],
     source: 'https://google.com',
-    visit: 'https://github.com/JayvenC',
+    visit: 'https://github.com/JayvenC?tab=repositories',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/vapur.png',
     tags: ['Python', 'Machine Learning', 'AI'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/JayvenC/VapurChatBot',
     id: 3,
   },
 ];
