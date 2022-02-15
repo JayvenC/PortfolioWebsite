@@ -18,14 +18,16 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        <a style={{fontSize: '4rem'}}>Hello 
+        <a style={{fontSize: '3rem', color: '#AB2C49'}}>Hello 
         <span> 
           <a style={{color: '#14C3FF'}}> World!</a>
            </span> <br />
            </a>
-        I'm Jayven Couch, <br />
-        Aspiring <span>
-          <a style={{color: '#14C3FF' }}>
+        <a style={{fontSize: '5rem', color: 'white'}}> I'm Jayven Couch, <br /> 
+        </a>
+        <a style={{fontSize: '5rem', color: 'white'}}> Aspiring </a> 
+        <span>
+          <a style={{fontSize: '5.8rem', color: '#14C3FF' }}>
         <Typewriter 
           options = {options}
          /> 
@@ -33,12 +35,12 @@ const Hero = (props) => (
         </span>
       </SectionTitle>
       <SectionText>
-        I created this portfolio to display my journey as a self-taught programmer/engineer. 
+        I created this portfolio to display my journey as a self-taught programmer/engineer.
         I am a true professional who consistently achieves goals and beats deadlines, without cutting corners and losing sight of core values.  
         I am excited for the next opportunity!
       </SectionText>
       <Button onClick={() => window.location = 'mailto:jayvencouch11@gmail.com'}>
-        Connect With Me
+        Connect With Me!
       </Button>
     </LeftSection>
   </Section>

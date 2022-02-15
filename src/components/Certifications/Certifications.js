@@ -3,12 +3,10 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxLogo, BoxText } from './CertificationsStyles';
 
 var logo1 = <img src='/images/RH1.png' height={100} width={150}></img>
-var logo2 = <img src='/images/AWSCloudPractitioner.png' height={110} width={125}></img>
-var logo3 = <img src='/images/AWS.SA.png' height={110} width={125}></img>
+var logo2 = <img src='/images/AWS.SA.png' height={110} width={125}></img>
 const data = [
   { logo: logo1, text: 'Red Hat Certified Systems Administrator (RHCSA)',},
-  { logo: logo2, text: 'Amazon Web Services (AWS) Certified Cloud Practitioner', },
-  { logo: logo3, text: 'Amazon Web Services (AWS) Certified Solutions Architect - Associate',}
+  { logo: logo2, text: 'Amazon Web Services (AWS) Certified Solutions Architect - Associate',}
 ];
 
 const Certifications = () => (

@@ -7,7 +7,7 @@ const Header = () =>  (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{display: "flex", alignItems: "center", color: "white", marginBottom: "20px", fontSize: "3rem"}}>
+        <a style={{display: "flex", alignItems: "center", color: "#AB2C49", marginBottom: "20px", fontSize: "3.15rem"}}>
           <NavLink/>J<Span>C</Span>
         </a>
       </Link>
