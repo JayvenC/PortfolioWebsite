@@ -44,7 +44,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <FaJenkins size = "3rem" />
+        <FaJenkins size = "2.7rem" />
         <ListContainer>
           <ListTitle>CI/CD</ListTitle>
           <ListParagraph>
@@ -62,7 +62,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiKubernetes size = "5rem" />
+        <SiKubernetes size = "3rem" />
         <ListContainer>
           <ListTitle>Container Orchestration</ListTitle>
           <ListParagraph>
