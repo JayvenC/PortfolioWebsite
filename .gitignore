@@ -33,13 +33,4 @@ yarn-error.log*
 .vercel
 
 # others
-yarn.lock
-.babelrc
-/src/styles
-/src/themes
-/src/pages/api
-_app.js
-_document.js
-hello.js
-/src/Layout
 /src/components/NavDropDown
