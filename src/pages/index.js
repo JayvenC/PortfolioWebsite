@@ -10,6 +10,7 @@ import { Section } from '../styles/GlobalComponents';
 const Home = () => {
   return (
     <Layout>
+      <title>Jayven Couch Portfolio</title>
       <Section grid>
         <Hero />
         <BgAnimation />
