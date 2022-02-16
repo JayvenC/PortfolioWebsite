@@ -11,6 +11,7 @@ const Home = () => {
   return (
     <Layout>
       <title>Jayven Couch Portfolio</title>
+      <meta name="description" content="This is my personal portfolio, where I share the details of my self-taught journey towards becoming a programmer/engineer. I hope you enjoy what you see!"></meta>
       <Section grid>
         <Hero />
         <BgAnimation />
