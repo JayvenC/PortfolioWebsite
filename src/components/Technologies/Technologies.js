@@ -26,7 +26,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiLinux size = "3rem" />
+        <DiLinux size = "4.5rem" />
         <ListContainer>
           <ListTitle>Operating Systems</ListTitle>
           <ListParagraph>
@@ -62,7 +62,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiKubernetes size = "3rem" />
+        <SiKubernetes size = "5rem" />
         <ListContainer>
           <ListTitle>Container Orchestration</ListTitle>
           <ListParagraph>
@@ -80,7 +80,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiGit size = "3rem" />
+        <SiGit size = "2.5rem" />
         <ListContainer>
           <ListTitle>Version Control</ListTitle>
           <ListParagraph>
@@ -107,7 +107,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiMicrosoftoffice size = "3rem" />
+        <SiMicrosoftoffice size = "3.5rem" />
         <ListContainer>
           <ListTitle>Microsoft Services</ListTitle>
           <ListParagraph>

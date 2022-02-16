@@ -1,13 +1,13 @@
 import React from 'react';
 import Typewriter from 'typewriter-effect';
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionSubText, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
 var options = {
   strings: ["Cloud Engineer", 
   "DevOps Engineer", 
-  "System Admin", 
+  "System Administrator", 
   "Data Scientist",
   "Software Engineer", 
   "Content Creator"],
@@ -20,19 +20,18 @@ const Hero = (props) => (
       <SectionTitle main center>
         <a style={{fontSize: '3rem', color: '#AB2C49'}}>Hello 
         <span> 
-          <a style={{color: '#14C3FF'}}> World!</a>
-           </span> <br />
-           </a>
-        <a style={{fontSize: '5rem', color: 'white'}}> I'm Jayven Couch, <br /> 
-        </a>
-        <a style={{fontSize: '5rem', color: 'white'}}> Aspiring </a> 
+          <a style={{color: '#14C3FF'}}> World,</a></span> <br /></a>
+        <a style={{fontSize: '5rem', color: 'white'}}> I'm Jayven Couch! <br /> </a>
+        <SectionSubText>
+          <a style={{fontSize: '4.4rem', color: 'white'}}> Aspiring </a> 
         <span>
-          <a style={{fontSize: '5.8rem', color: '#14C3FF' }}>
+          <a style={{fontSize: '4.4rem', color: '#14C3FF' }}>
         <Typewriter 
           options = {options}
          /> 
         </a>
         </span>
+        </SectionSubText>
       </SectionTitle>
       <SectionText>
         I created this portfolio to display my journey as a self-taught programmer/engineer.

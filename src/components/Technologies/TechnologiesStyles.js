@@ -21,6 +21,7 @@ export const ImageContainer = styled.div`
     padding: 0;
     margin-top: 16px;
   }
+  
 `
 
 export const MainImage = styled.img`
@@ -44,7 +45,8 @@ export const List = styled.ul`
   }
   
   @media ${props => props.theme.breakpoints.sm}{
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     flex-direction: column;
     margin: 32px 0;
   }

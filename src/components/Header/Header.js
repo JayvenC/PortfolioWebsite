@@ -20,7 +20,7 @@ const Header = () =>  (
       </li>
       <li>
         <Link href="#tech">
-          <NavLink>Tech &amp; Certs</NavLink>
+          <NavLink>Tech</NavLink>
         </Link>
       </li>
       <li>
