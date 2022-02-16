@@ -28,7 +28,7 @@ const Technologies = () =>  (
       <ListItem>
         <DiLinux size = "4.5rem" />
         <ListContainer>
-          <ListTitle>Operating Systems</ListTitle>
+          <ListTitle>Operating <br/>Systems</ListTitle>
           <ListParagraph>
             Linux Basics, CLI, Shell Commands, Server Management and Network Protocols (Firewalls/HTTPS) <br />
           </ListParagraph>
@@ -48,7 +48,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>CI/CD</ListTitle>
           <ListParagraph>
-            Build Automation Skills <br/> via Jenkins
+            Build Automation <br/>Skills <br/> via Jenkins
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -66,7 +66,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Container Orchestration</ListTitle>
           <ListParagraph>
-            Familiar with Kubernetes in administering and deploying applications
+            Familiar with <br/>Kubernetes in <br/>administering and <br/>deploying applications
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -82,7 +82,7 @@ const Technologies = () =>  (
       <ListItem>
         <SiGit size = "2.5rem" />
         <ListContainer>
-          <ListTitle>Version Control</ListTitle>
+          <ListTitle>Version <br/>Control</ListTitle>
           <ListParagraph>
             Familiar with Git
           </ListParagraph>
