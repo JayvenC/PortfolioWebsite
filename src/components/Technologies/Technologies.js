@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiLinux, DiPython, DiReact,  } from 'react-icons/di';
+import { DiLinux, DiPython, DiReact, DiDatabase } from 'react-icons/di';
 import { FaAws, FaJenkins, FaDocker } from 'react-icons/fa';
 import { SiKubernetes, SiTerraform, SiGit, SiPrometheus, SiMicrosoftoffice, SiAnsible } from 'react-icons/si';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
@@ -112,6 +112,15 @@ const Technologies = () =>  (
           <ListTitle>Microsoft Services</ListTitle>
           <ListParagraph>
             8+ years experience with Microsoft services such as Excel, Powerpoint, Office, etc.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiDatabase size = "3rem" />
+        <ListContainer>
+          <ListTitle>Back-End Development</ListTitle>
+          <ListParagraph>
+            Node &amp; Redis Technology
           </ListParagraph>
         </ListContainer>
       </ListItem>

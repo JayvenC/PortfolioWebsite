@@ -7,9 +7,10 @@ import { LeftSection } from './HeroStyles';
 var options = {
   strings: ["Cloud Engineer", 
   "DevOps Engineer", 
-  "System Administrator", 
-  "Data Scientist",
-  "Software Engineer", 
+  "Full-Stack Developer",
+  "System Administrator",
+  "Software Engineer",
+  "Data Scientist", 
   "Content Creator"],
   autoStart: true,
   loop: true
@@ -23,9 +24,9 @@ const Hero = (props) => (
           <a style={{color: '#14C3FF'}}> World,</a></span> <br /></a>
         <a style={{fontSize: '5rem', color: 'white'}}> I'm Jayven Couch! <br /> </a>
         <SectionSubText>
-          <a style={{fontSize: '4.4rem', color: 'white'}}> Aspiring </a> 
+          <a style={{color: 'white'}}> Aspiring </a> 
         <span>
-          <a style={{fontSize: '4.4rem', color: '#14C3FF' }}>
+          <a style={{color: '#14C3FF' }}>
         <Typewriter 
           options = {options}
          /> 
