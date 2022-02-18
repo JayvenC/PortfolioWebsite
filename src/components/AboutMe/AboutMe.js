@@ -1,5 +1,5 @@
 import React from 'react';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { AboutMePhoto, Section, SectionDivider, SectionText, SectionTitle} from '../../styles/GlobalComponents';
 
 
 const About = () => {
@@ -10,8 +10,7 @@ const About = () => {
       <SectionDivider/>
       <br />
       <SectionTitle>About Me</SectionTitle>
-      <img src='/images/portrait.circle.png' height={360} width={535}>
-      </img>
+      <img src='/images/portrait.circle.png' height={250} width={250}></img>
       <br />
       <SectionText>
       Hello World, <br /> I'm Jayven Couch! <br /> <br/>
