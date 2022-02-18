@@ -7,10 +7,9 @@ import { LeftSection } from './HeroStyles';
 var options = {
   strings: ["Cloud Engineer", 
   "DevOps Engineer", 
-  "Full-Stack Developer",
-  "System Administrator",
+  "Full-Stack Engineer",
+  "System Admin",
   "Software Engineer",
-  "Data Scientist", 
   "Content Creator"],
   autoStart: true,
   loop: true

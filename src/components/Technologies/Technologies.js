@@ -30,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Operating <br/>Systems</ListTitle>
           <ListParagraph>
-            Linux Basics, CLI, Shell Commands, Server Management and Network Protocols (Firewalls/HTTPS) <br />
+            Linux Basics, CLI, Shell Commands, Server Management. <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -39,7 +39,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Cloud</ListTitle>
           <ListParagraph>
-            Primarily use AWS <br /> Configure Firewalls, Create Networks, etc.
+            Primarily use AWS <br /> Network Protocols (Firewalls/HTTPS) etc.
           </ListParagraph>
         </ListContainer>
       </ListItem>
