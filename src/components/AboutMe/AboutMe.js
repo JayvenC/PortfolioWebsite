@@ -10,7 +10,7 @@ const About = () => {
       <SectionDivider/>
       <br />
       <SectionTitle>About Me</SectionTitle>
-      <img src='/images/portrait.circle.png' height={250} width={250}></img>
+      <img src='/images/portrait.circle.png' height={250} width={260}></img>
       <br />
       <SectionText>
       Hello World, <br /> I'm Jayven Couch! <br /> <br/>
