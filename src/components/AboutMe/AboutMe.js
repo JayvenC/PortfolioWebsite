@@ -21,7 +21,7 @@ const About = () => {
        and wanted to learn as many skills as I could. I quickly became motivated to begin the journey of becoming a programmer/engineer 
        solely because I truly enjoyed what I was learning and wanted to transfer that into a career.
        Fast-forward to present-day, I have learned an abundance of new skills and try my best to learn new things everyday.
-       Also, I have studied and obtained certifications such as AWS Cloud Practitioner, AWS Solution Architect, and the Red Hat Certified Systems Administrator.
+       Also, I have studied and obtained certifications such as AWS Solution Architect, and am currently in the process of obtaining the AWS Certified DevOps Professional certificate.
        Not only am I proud of what I have accomplished so far, I am excited for what the future holds.
        <br /> <br/>
        Best wishes, <br/>

@@ -34,3 +34,4 @@ yarn-error.log*
 
 # others
 /src/components/NavDropDown
+ec2-user-data.sh
