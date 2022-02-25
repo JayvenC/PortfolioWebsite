@@ -49,7 +49,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>CI/CD</ListTitle>
           <ListParagraph>
-            Build Automation <br/>Skills <br/> via Jenkins
+            Build Automation <br/>Skills <br/> via Jenkins <br/> CodePipeline via AWS
           </ListParagraph>
         </ListContainer>
       </ListItem>
