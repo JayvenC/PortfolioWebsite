@@ -8,7 +8,7 @@ var options = {
   strings: ["Cloud Engineer", 
   "DevOps Engineer", 
   "Full-Stack Engineer",
-  "System Admin",
+  "Solutions Architect",
   "Software Engineer",
   "Content Creator"],
   autoStart: true,
