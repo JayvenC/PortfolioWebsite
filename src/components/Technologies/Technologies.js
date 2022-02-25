@@ -39,7 +39,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Cloud</ListTitle>
           <ListParagraph>
-            Primarily use AWS <br /> Network Protocols (Firewalls/HTTPS) etc.
+            Primarily use AWS <br /> Network Protocols (Firewalls/HTTPS) etc. <br />
+            Databases (MySQL/RDS)
           </ListParagraph>
         </ListContainer>
       </ListItem>
