@@ -94,7 +94,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Monitoring</ListTitle>
           <ListParagraph>
-            Track performances of deployed applications through Prometheus
+            Track performances of deployed applications through Prometheus <br/>
+             Cloudwatch via AWS
           </ListParagraph>
         </ListContainer>
       </ListItem>
