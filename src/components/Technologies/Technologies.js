@@ -104,7 +104,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End Development</ListTitle>
           <ListParagraph>
-            HTML, CSS, <br/>React.js, Next.js, etc.
+            HTML, CSS, <br/>React.js, Next.js, <br/> Vue.js, Tailwind etc.
           </ListParagraph>
         </ListContainer>
       </ListItem>
