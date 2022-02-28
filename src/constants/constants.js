@@ -1,21 +1,12 @@
 export const projects = [
   {
-    title: 'eSurance',
-    description: "Using HTML & CSS, this project was unique in a way that made our website fully responsive, including mobile navigation! Web design was motivated by DesignCourse's HTML & CSS crash course on YouTube. eSurance is a company designed to insure this and upcoming generations of gamers that are in a rapidly growing sport. ",
-      image: '/images/esurance.png',
-      tags: ['HTML', 'CSS', 'JavaScript', 'Front-End'],
-    source: 'https://google.com',
-    visit: 'https://github.com/JayvenC/eSurance',
-    id: 0,
-  },
-  {
     title: 'ShowOff',
-    description: "I am currently working on a full-stack project I am calling ShowOff, where users can share what they are passionate about on a blog-like application. I am always working, so it should be posted here soon! In the meantime, click the button below to view my github repository.",
-      image: '/images/work.jpg',
-      tags: ['', ''],
+    description: "Blog-like web application that allows users to share what they wish with others in the community. This project is still on-going to which I will turn it full-stack and allow users to register and login while having access to full functionality within the application.",
+      image: '/images/show-off.png',
+      tags: ['React', 'CSS', 'HTML', 'Node'],
     source: 'https://google.com',
-    visit: 'https://github.com/JayvenC?tab=repositories',
-    id: 1,
+    visit: 'https://github.com/JayvenC/ShowOff',
+    id: 0,
   },
   {
     title: 'VapurBot (AI ChatBot)',
@@ -24,6 +15,15 @@ export const projects = [
     tags: ['Python', 'Machine Learning', 'AI'],
     source: 'https://google.com',
     visit: 'https://github.com/JayvenC/VapurChatBot',
+    id: 1,
+  },
+  {
+    title: 'eSurance',
+    description: "Using HTML & CSS, this project was unique in a way that made our website fully responsive, including mobile navigation! Web design was motivated by DesignCourse's HTML & CSS crash course on YouTube. eSurance is a company designed to insure this and upcoming generations of gamers that are in a rapidly growing sport. ",
+      image: '/images/esurance.png',
+      tags: ['HTML', 'CSS', 'JavaScript', 'Front-End'],
+    source: 'https://google.com',
+    visit: 'https://github.com/JayvenC/eSurance',
     id: 2,
   },
   {
