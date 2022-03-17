@@ -34,7 +34,7 @@ const Hero = (props) => (
         </SectionSubText>
       </SectionTitle>
       <SectionText>
-        I created this portfolio to display my journey as a self-taught programmer/engineer.
+        I created this portfolio to display my journey as a programmer/engineer.
         I am a true professional who consistently achieves goals and beats deadlines, without cutting corners and losing sight of core values.  
         I am excited for the next opportunity!
       </SectionText>
