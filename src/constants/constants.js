@@ -44,4 +44,13 @@ export const projects = [
     visit: 'https://github.com/JayvenC/ClimateFinder', //"CODE"
     id: 4,
   },
+  {
+    title: 'nVenue Microservice',
+    description:"A task provided by nVenue, a newly funded company that implements machine learning and artificial intelligence to predict real-time analytics for sport micro-betting. My goal was to create a microservice that iterated over large csv files and predicted the model's prediction accuracy. ",
+    image: '/images/nvenue.png',
+    tags: ['Python', 'Data Processing', 'Machine Learning'],
+    source: 'https://google.com',
+    visit: 'https://github.com/JayvenC/nVenue-coding-challenge', //"CODE"
+    id: 5,
+  },
 ];

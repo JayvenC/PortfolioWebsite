@@ -19,13 +19,13 @@ const Footer = () => {
         <br />
         <LinkColumn>
           <LinkTitle>Research Resume</LinkTitle>
-            <LinkItem href="/files/research.pdf">Click to Open</LinkItem>
+            <LinkItem href="/files/research.pdf">View</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>“It is never too late to be what you might have been.”
-                   ― George Eliot</Slogan>
+          <Slogan>“The best time to plant a tree was 20 years ago. The second best time is now.”
+                   ― Chinese Proverb</Slogan>
         </CompanyContainer>
       <SocialContainer>
           <SocialIcons href="https://github.com/JayvenC">

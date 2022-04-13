@@ -39,7 +39,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Cloud</ListTitle>
           <ListParagraph>
-            Primarily use AWS <br /> Network Protocols (Firewalls/HTTPS) etc. <br />
+            Primarily use AWS <br /> EC2, S3, IAM, SQS, etc.<br />
             Databases (MySQL/RDS)
           </ListParagraph>
         </ListContainer>
@@ -58,7 +58,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Containers</ListTitle>
           <ListParagraph>
-            Virtualization and managing containerized applications on <br/> a server via Docker
+            Virtualization and managing containerized applications on <br/> a server via Docker, ECS, <br/> Fargate, etc.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -67,7 +67,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Container Orchestration</ListTitle>
           <ListParagraph>
-            Familiar with <br/>Kubernetes in <br/>administering and <br/>deploying applications
+            Kubernetes and AWS EKS <br/> in administering and <br/>deploying applications
           </ListParagraph>
         </ListContainer>
       </ListItem>
