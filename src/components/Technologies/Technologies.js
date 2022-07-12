@@ -9,19 +9,18 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Tech Stack</SectionTitle>
     <SectionText>
-      Displayed below are technological skills that I am more than comfortable with.
     </SectionText>
     <List>
       <ListItem>
         <DiPython size = "3rem" />
         <ListContainer>
-          <ListTitle>Scripting</ListTitle>
+          <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
             Familiar with <br />
-            Python, JavaScript, <br />
-            Bash, TypeScript, &amp; C
+            Python, Go, JavaScript, <br />
+            SQL, HTML5, CSS &amp; Bash
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,10 +36,9 @@ const Technologies = () =>  (
       <ListItem>
         <FaAws size = "3rem" />
         <ListContainer>
-          <ListTitle>Cloud</ListTitle>
+          <ListTitle>Cloud <br/>Computing</ListTitle>
           <ListParagraph>
-            Primarily use AWS <br /> EC2, S3, IAM, SQS, etc.<br />
-            Databases (MySQL/RDS)
+            Networking &amp; Security <br /> AWS Services such as VPCs, Lambda, API Gateway, EC2, S3, IAM, and much more. <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -49,7 +47,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>CI/CD</ListTitle>
           <ListParagraph>
-            Build Automation <br/>Skills <br/> via Jenkins <br/> CodePipeline via AWS
+            Deliver automation to applications via Jenkins <br/> &amp; AWS CodePipeline
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -58,7 +56,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Containers</ListTitle>
           <ListParagraph>
-            Virtualization and managing containerized applications on <br/> a server via Docker, ECS, <br/> Fargate, etc.
+            Virtualization and managing containerized applications on a server via Docker, ECS, <br/> Fargate, etc.
+            Experience with Docker Multi-Stage Builds
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -67,7 +66,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Container Orchestration</ListTitle>
           <ListParagraph>
-            Kubernetes and AWS EKS <br/> in administering and <br/>deploying applications
+            Kubernetes/AWS EKS <br/> in administering and <br/>deploying containerized applications on a cluster of hosts.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -76,7 +75,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Infrastructure <br /> as Code</ListTitle>
           <ListParagraph>
-            Creating infrastructure (Terraform) &amp; Configuration to run and deploy applications (Ansible)
+            Terraform/AWS CloudFormation in defining infrastructure resources in configuration files.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -85,7 +84,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Version <br/>Control</ListTitle>
           <ListParagraph>
-            Familiar with Git
+            Gitlab/Github/Bitbucket
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -94,8 +93,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Monitoring</ListTitle>
           <ListParagraph>
-            Track performances of deployed applications through Prometheus <br/>
-             Cloudwatch via AWS
+            Track performances of deployed applications through
+             Amazon EventBridge and Cloudwatch via AWS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -104,7 +103,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End Development</ListTitle>
           <ListParagraph>
-            HTML, CSS, <br/>React.js, Next.js, <br/> Vue.js, Tailwind etc.
+            React.js, Next.js, <br/> Vue.js, Tailwind, Redux, &amp; Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -113,16 +112,16 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Microsoft Services</ListTitle>
           <ListParagraph>
-            8+ years experience with Microsoft services such as Excel, Powerpoint, Office, etc.
+            Microsoft services such as Excel, Powerpoint, Office, Teams, etc.
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiDatabase size = "3rem" />
         <ListContainer>
-          <ListTitle>Back-End Development</ListTitle>
+          <ListTitle>Back-End &amp; Databases</ListTitle>
           <ListParagraph>
-            Node &amp; Redis Technology
+            AWS RDS, MySQL, PostgreSQL, Redis, &amp; NoSQL Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>

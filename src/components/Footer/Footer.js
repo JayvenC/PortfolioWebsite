@@ -18,8 +18,6 @@ const Footer = () => {
         </LinkColumn>
         <br />
         <LinkColumn>
-          <LinkTitle>Research Resume</LinkTitle>
-            <LinkItem href="/files/research.pdf">View</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>

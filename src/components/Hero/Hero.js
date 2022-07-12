@@ -33,12 +33,12 @@ const Hero = (props) => (
         </SectionSubText>
       </SectionTitle>
       <SectionText>
-        I created this portfolio to display my journey as a programmer/engineer.
-        I am a true professional who consistently achieves goals and beats deadlines, without cutting corners and losing sight of core values.  
-        I am excited for the next opportunity!
+      I am a dedicated Cloud/DevOps engineer 
+      with a passion to solve problems efficiently without cutting corners and staying true to core values.
+      I have a dynamic skill set that allows me to communicate well in a group setting, take criticism, and strive to become the best at what I do. 
       </SectionText>
       <Button onClick={() => window.location = 'mailto:jayvencouch11@gmail.com'}>
-        Connect With Me!
+        Contact Me
       </Button>
     </LeftSection>
   </Section>

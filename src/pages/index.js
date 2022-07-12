@@ -19,7 +19,6 @@ const Home = () => {
       <Projects />
       <Technologies />
       <Certifications />
-      <About />
     </Layout>
   );
 };
