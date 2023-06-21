@@ -5,7 +5,7 @@ import { Box, Boxes, BoxLogo, BoxText } from './CertificationsStyles';
 var logo1 = <img src='/images/AWS.SA.png' height={110} width={125}></img>
 var logo2 = <img src='/images/comingsooner.png' height={110} width={125}></img>
 const data = [
-  { logo: logo1, text: 'Amazon Web Services (AWS) Certified Solutions Architect - Associates',},
+  { logo: logo1, text: 'Amazon Web Services (AWS) Certified Solutions Architect - Associate',},
   { logo: logo2, text: 'Amazon Web Services (AWS) Certified Solutions Architect - Professional ',}
 ];
 
