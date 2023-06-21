@@ -21,7 +21,7 @@ const Hero = (props) => (
         <a style={{fontSize: '3rem', color: '#AB2C49'}}>Hello 
         <span> 
           <a style={{color: '#14C3FF'}}> World,</a></span> <br /></a>
-        <a style={{fontSize: '5rem', color: 'white'}}> I'm Jayven Couch! <br /> </a>
+        <a style={{fontSize: '5rem', color: 'white'}}> I'm Jayven <br /> </a>
         <SectionSubText>
           <a style={{color: 'white'}}> Aspiring </a> 
         <span>
